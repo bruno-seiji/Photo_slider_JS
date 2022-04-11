@@ -26,7 +26,6 @@ function change() {
     pic3.style.left = '-100%'
     pic4.style.left = '0%'
   }
-  console.log(i)
   i++
   if (i > 3) {
     i = 0
